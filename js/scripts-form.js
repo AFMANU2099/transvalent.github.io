@@ -198,7 +198,7 @@ function actualizaprecioestimado(){
         const[,precioextra]=checkbox.value.split(":")
         total +=parseFloat(precioextra)
     })
-    if (frmPlazoenvio.value=='' || frmPlazoenvio.value==null){
+  if (frmPlazoenvio.value=='' || frmPlazoenvio.value==null){
         plazoenvio=0
     }
     total+=parseFloat(plazoenvio)
