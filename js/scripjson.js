@@ -1,6 +1,5 @@
-let key = 'fc23152951ef43369c756cdb3b88c32a';
-let pais='us'
-let url = `https://newsapi.org/v2/top-headlines?country=${pais}&apiKey=${key}`
+
+let url = "./json/datos.json"
 
 const contenedor1 = document.getElementById('contenedor1');
 const errorDv=document.getElementById('errorDv');
