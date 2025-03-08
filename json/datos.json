@@ -1,7 +1,5 @@
 {
-    "status": "ok",
-    "totalResults": 35,
-    "articles": [
+  "articles": [
       {
         "source": {
           "id": "the-washington-post",
@@ -223,5 +221,5 @@
         "publishedAt": "2025-02-14T02:30:31Z",
         "content": "Madeline Halpert &amp; Mike Wendling\r\nThe top US prosecutor in Manhattan has resigned after refusing an order to drop a corruption case against New York City Mayor Eric Adams. \r\nDanielle Sassoon, a c… [+4429 chars]"
       }
-    ]
-  }
+  ]
+}
